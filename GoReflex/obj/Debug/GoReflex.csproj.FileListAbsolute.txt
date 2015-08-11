@@ -1,0 +1,15 @@
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\Bin\Debug\ApplicationIcon.png
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\Bin\Debug\Background.png
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\Bin\Debug\GoReflex.dll
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\Bin\Debug\GoReflex.pdb
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\obj\Debug\App.g.i.cs
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\obj\Debug\MainPage.g.i.cs
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\obj\Debug\GoReflex.g.resources
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\obj\Debug\GoReflex.dll
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\obj\Debug\GoReflex.pdb
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\obj\Debug\scores.g.i.cs
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\Bin\Debug\AppManifest.xaml
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\Bin\Debug\GoReflex.xap
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Dr Trance\Documents\examples\GoReflex\GoReflex\obj\Debug\XapCacheFile.xml
